@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Foo() {
-	fmt.Println("foo.Foo of model v1.0.0")
+func Foo2() {
+	fmt.Println("foo.Foo of model v2.0.0")
 }
